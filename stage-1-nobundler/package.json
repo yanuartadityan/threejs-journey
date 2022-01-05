@@ -1,0 +1,15 @@
+{
+  "name": "stage-1-nobundler",
+  "version": "1.0.0",
+  "description": "* we need 4 elements to start:\r     * a scene\r     * an object\r     * a camera\r     * a renderer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/three": "^0.135.0"
+  }
+}
