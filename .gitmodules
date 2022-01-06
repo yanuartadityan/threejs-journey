@@ -1,0 +1,3 @@
+[submodule "boilerplate/three-starter"]
+	path = boilerplate/three-starter
+	url = https://github.com/TomHsiao1260/three-starter.git
